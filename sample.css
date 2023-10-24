@@ -1,0 +1,30 @@
+*{
+	text-align: center;
+}
+h1{
+	font-family: cursive;
+	color: royalblue;
+}
+
+table{
+	width: 100%;
+	border: black 1.5px solid;
+
+}
+
+td, th{
+	border: black solid 1.5px;
+	text-align: center;
+	width: 50%;
+}
+
+th{
+	font-size: 25px;
+	font-family: cursive;
+
+}
+
+td{
+	font-family: Lucida Handwriting, cursive;
+}
+
